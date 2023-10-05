@@ -1,0 +1,12 @@
+body{
+    background-color: grey;
+    background-image: url(https://hips.hearstapps.com/hmg-prod/images/210514-f-jg201-9103-65031f2458f5f.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}

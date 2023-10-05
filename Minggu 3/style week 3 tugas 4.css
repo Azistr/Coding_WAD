@@ -1,0 +1,16 @@
+h1 {
+    text-align: center;
+    color : green
+}
+h2 {
+    text-align: left;
+    color : blue
+}
+h3 {
+    text-align: right;
+    color : goldenrod
+}
+p {
+    text-align: center;
+    color : forestgreen
+}

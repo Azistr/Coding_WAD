@@ -1,0 +1,25 @@
+body {
+    background-color: gray;
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+    color : green;
+    text-indent: 30px;
+}
+h2 {
+    text-align: center;
+    color : blue;
+    text-transform: initial;
+}
+h3 {
+    text-align: center;
+    color : goldenrod;
+    text-decoration: line-through;
+}
+p {
+    text-align: justify;
+    color : white;
+    letter-spacing: normal;
+}
