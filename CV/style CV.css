@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+}
+h2{
+    font-size: medium;
+}
+h3{
+    font-size: medium;
+}
+table, th, td{
+    text-align: center;
+    border: 1px solid black;
+    margin-left: auto;
+    margin-right: auto;
+}
