@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Change Image</title>
+    </head>
+    <body>
+        <h1>Javascript Can Change Images</h1>
+    <img id="foto minggu 5" onclick="changeImage()" src="foto minggu 5/SS-2-V2-HB.jpg" witdh="100" height="180">
+    <p>Click the Image to change image.</p>
+    <script>
+        function changeImage() {
+            var image = document.getElementById('foto minggu 5');
+            if (image.src.match("SS2_V5_A1")) {
+                image.src = "foto minggu 5/SS-2-V2-HB.jpg";
+            } else {
+                image.src = "foto minggu 5/SS2_V5_A1.jpg";
+            }
+        }
+    </script>
+    </body>
+</html>
